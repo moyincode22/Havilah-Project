@@ -1,0 +1,37 @@
+nav{
+    background-color:pink ;
+}
+
+.hub{
+    font-size: larger;
+    margin: auto;
+    font-style: italic;
+}
+
+.search-bar{
+    display: flex;
+    align-items: center;
+}
+
+.girl-3{
+    width: 400px;
+}
+
+.girl-1{
+    width: 500px;
+}
+
+.girl-2{
+    width: 500px;
+}
+
+.girls{
+    background-color: pink;
+}
+
+.products{
+    width: 900px;
+    margin: 5px 10px;
+}
+
+
